@@ -1,0 +1,17 @@
+{
+    "name": "nicholassantossignore/webpacktheme",
+    "autoload": {
+        "psr-4": {
+            "Nicholassantossignore\\Webpacktheme\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicosignore",
+            "email": "signore@matrix-gmbh.de"
+        }
+    ],
+    "require": {
+
+    }
+}

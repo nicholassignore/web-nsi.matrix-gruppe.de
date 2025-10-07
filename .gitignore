@@ -1,0 +1,41 @@
+# Node.js
+**/node_modules/
+
+# Composer
+**/vendor/
+
+# Build files
+**/dist/
+**/build/
+!/src
+
+# IDE-specific files
+**/.DS_Store
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/composer.lock
+
+# Caches
+.npm/
+.eslintcache
+.stylelintcache
+
+# Umgebungsvariablen-Dateien (sensible Daten)
+.env
+.env.test
+.env.production
+
+# Debug Logs
+DEBUG*
+
+# Editor- und IDE-spezifische Dateien
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Betriebssystem-spezifische Dateien
+Thumbs.db
